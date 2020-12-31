@@ -107,7 +107,6 @@ class Yatzy:
         else:
             return 0
 
-
     @staticmethod
     def smallStraight(*dice):
         for i in range(len(dice)-1):
