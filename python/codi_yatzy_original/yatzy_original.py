@@ -178,7 +178,6 @@ class Yatzy:
             return 15
         return 0
     
-
     @staticmethod
     def largeStraight( d1,  d2,  d3,  d4,  d5):
         tallies = [0]*6
