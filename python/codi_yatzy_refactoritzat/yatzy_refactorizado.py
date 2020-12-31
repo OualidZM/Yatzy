@@ -150,4 +150,4 @@ class Yatzy:
                 return sum(listt)
                 # pair * i
             else:
-                return 0
+                return 0 
