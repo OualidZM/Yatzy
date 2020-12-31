@@ -66,7 +66,7 @@ class Yatzy:
         if (d5 == 3):
              s += 3
         return s
-    
+     
 
     def __init__(self, d1, d2, d3, d4, _5):
         self.dice = [0]*5

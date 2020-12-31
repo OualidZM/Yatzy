@@ -17,7 +17,7 @@ def test_yatzy_scores_50():
         assert 50 == Yatzy.yatzy([6,6,6,6,6])
         assert 0 == Yatzy.yatzy([6,6,6,6,3])
   
-
+ 
 def test_1s():
         assert Yatzy.ones(1,2,3,4,5) == 1
         assert 2 == Yatzy.ones(1,2,1,4,5)
