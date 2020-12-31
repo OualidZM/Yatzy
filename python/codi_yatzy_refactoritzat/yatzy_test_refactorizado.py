@@ -1,4 +1,4 @@
-from yatzy_refactoritzat import Yatzy
+from yatzy_refactorizado import Yatzy
 import pytest
 
 # test_chance_scores_sum_of_all_dice  to test_chance
