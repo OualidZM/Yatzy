@@ -197,11 +197,6 @@ def test_largeStraight():
     assert 0 == Yatzy.largeStraight(1,1,4,3,2)
     assert 0 == Yatzy.largeStraight(5,4,3,2,4)
 
-# intenta solucionar [2]
-    # assert 0 == Yatzy.largeStraight(2,1,3,4,5)
-    # assert 0 == Yatzy.largeStraight(2,1,4,3,2)
-    # assert 0 == Yatzy.largeStraight(2,4,3,2,4)
-
 #fullHouse to test_fullHouse
 def test_fullHouse():
 
